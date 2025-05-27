@@ -18,11 +18,11 @@
 
 > “A tecnologia nos permite transformar curiosidade em inovação.”
 
-**Vamos inovar juntos?** 🚀
+**Vamos inovar juntos?** 
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 
 ---
 
-### 🔗 Conecte-se Comigo
+###  Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-porteladev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
