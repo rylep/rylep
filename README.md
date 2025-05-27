@@ -1,34 +1,50 @@
-## Sobre Mim
+### 👋 Olá, eu sou o Ryan!
 
-Olá! Sou estudante de Engenharia de Software, atualmente no primeiro período, e um entusiasta do universo dos dados e da tecnologia.  
-Tenho maior familiaridade com JavaScript e desenvolvimento front-end, mas estou sempre curioso e aberto a explorar novas linguagens e maneiras de resolver problemas.
+<a href="https://www.linkedin.com/in/ryan-porteladev/">
+  <img align="left" width="200px" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="Estatísticas do GitHub de Ryan" />
+</a>
 
-Sou proativo, dedicado e apaixonado por inovação. Busco soluções criativas e eficientes, aprendendo continuamente com cada desafio. Recentemente, mergulhei no mundo da nuvem e criei meu próprio Data Factory no Azure,  
-um projeto que impulsionou ainda mais minha vontade de evoluir e aprimorar meus conhecimentos dia após dia.  
-Adoro temas escuros que transmitam personalidade e sofisticação, por isso escolhi o visual dark-purple para meus ambientes de trabalho e projetos.
+<p align="left">
+  Sou um entusiasta de tecnologia e estudante de <strong>Engenharia de Software</strong>, apaixonado pelo universo de Dados, Cloud e desenvolvimento Front-end.
+</p>
+<br>
 
-Atualmente, estou em busca de uma oportunidade de estágio na área de Engenharia de Software, Dados ou Tecnologia para colocar em prática meus conhecimentos, crescer profissionalmente e contribuir com times inovadores.
+-  Atualmente no primeiro período, mas sempre buscando conhecimento além da sala de aula.
+-  Tenho maior familiaridade com **JavaScript/TypeScript**, e adoro criar interfaces intuitivas e funcionais.
+-  Recentemente, explorei a nuvem construindo um pipeline de dados com **Azure Data Factory**, um projeto que despertou meu interesse por engenharia de dados.
+-  **Estou em busca de uma oportunidade de estágio** para aplicar minha proatividade e curiosidade, contribuir com times inovadores e acelerar meu crescimento profissional.
+
+<br>
 
 > “A tecnologia nos permite transformar curiosidade em inovação.”
 
-Vamos construir algo incrível juntos? 
+**Vamos inovar juntos?** 🚀
 
 ---
 
-### Skills
+### 💻 Tecnologias e Ferramentas
 
-- **Front-end:** HTML5, CSS, SASS, JavaScript, ECMAScript, TypeScript
-- **Back-end & Bancos de Dados:** PHP, MySQL, Google Sheets
-- **Dados & Inteligência Artificial:** Data Lakes, Data Analysis, Data Structures, Artificial Intelligence (AI), Prompt Engineering, AI Prompting
-- **Ferramentas & Plataformas:** Azure Data Factory
-- **Soft Skills:** Analytical Skills, Proatividade, Resolução de Problemas, Curiosidade
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,mysql,azure,git,vscode,figma&perline=11" />
+  </a>
+</p>
 
-**Tema favorito:** Dracula Theme Official 💜
+#### **Estudando e Explorando:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ai,aws,gcp" />
+  </a>
+</p>
 
 ---
 
-### Contato
+### 🔗 Conecte-se Comigo
 
-- [LinkedIn](https://www.linkedin.com/in/ryan-porteladev/)
-- [Twitter/X](https://x.com/ryleplucas)
-- Email: ryanlucasalmeidap@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryan-porteladev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/ryleplucas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:ryanlucasalmeidap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+*Obs: Meu ambiente de desenvolvimento preferido é com o **[Dracula Theme](https://draculatheme.com/)** 💜*
