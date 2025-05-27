@@ -1,7 +1,7 @@
 ###  Olá vizinhos, eu sou o Ryan!
 
 <a href="https://www.linkedin.com/in/ryan-porteladev/">
-  <img align="left" width="200px" src="https://github-readme-stats.vercel.app/api?username=rylepshow_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="Estatísticas do GitHub de Ryan" />
+  <img align="left" width="200px" src="https://github-readme-stats.vercel.app/api?username=rylep&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="Estatísticas do GitHub de Ryan" />
 </a>
 
 <p align="left">
